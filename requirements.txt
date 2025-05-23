@@ -1,0 +1,4 @@
+os
+psycopg2-binary
+logging
+streamlit
