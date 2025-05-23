@@ -3,7 +3,6 @@ import psycopg2
 import logging
 import streamlit as st
 
-# load_dotenv()
 
 DB_POS_HOST = st.secrets["DB_POS_HOST"]
 DB_POS_PORT = st.secrets["DB_POS_PORT"]
